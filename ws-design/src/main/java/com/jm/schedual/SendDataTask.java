@@ -1,7 +1,6 @@
 package com.jm.schedual;
 
 import com.jm.facade.impl.DemoFacadeImpl;
-import com.zhikuntech.realtime.ws.facade.*;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
